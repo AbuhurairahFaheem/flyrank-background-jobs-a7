@@ -160,7 +160,7 @@ Invoke-RestMethod -Uri "http://localhost:3000/reports/rep_1773264582910_8f2a1"
 
 ## Dashboard Verification
 
-![Inngest Dashboard Runs](screenshot.png)
+![Inngest Dashboard Runs](Screenshot-dashboard.png)
 
 *The dashboard at `http://localhost:8288` demonstrates:*
 1. **Completed `make-report` run:** Successful progression across both `do-the-slow-work` (8s) and `build-report` steps.
